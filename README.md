@@ -3,7 +3,7 @@
 
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/eliimac">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Student+Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
