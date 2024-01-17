@@ -10,7 +10,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliimac&langs_count=8&theme=tokyonight" alt="Anurag's GitHub stats" align="right"></a>
 
-## 🛠️ Skills
+## 🛠️ <h3 align="left">Languages and Tools:</h3>
 
 ### Languages
 
