@@ -1,5 +1,12 @@
-# Hi there 👋, Welcome to my GitHub profile 😄
+# Hi there 👋, i'm Camile! 😄
 
+
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Student+Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
 ## About me:
 
@@ -7,6 +14,18 @@
 - ⚡ Fun fact: the nickname "elimac" is my name backwards.
 
 <hr>
+
+
+<br/>
+
+## Connect with Me
+
+<p align="center">
+	<a href="mailto:kmiizzxx@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/kmiizzxx/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliimac&langs_count=8&theme=tokyonight" alt="Anurag's GitHub stats" align="right"></a>
 
