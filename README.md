@@ -10,7 +10,7 @@
 
 ## About me:
 
-- 🌱 I'm a full stack student, learning English and German
+- 🌱 I'm a full stack student, learning english.
 - ⚡ Fun fact: the nickname "elimac" is my name backwards.
 
 <hr>
